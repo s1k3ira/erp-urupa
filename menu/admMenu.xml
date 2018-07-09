@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<menu>
+	<!-- Cadastros -->
+	<item id="m1" text="Cadastros">
+		<item id="m11" text="Clientes">
+			<item id="gereJur.php" text="Pessoa Júridica"></item>
+			<item id="gereFis.php" text="Pessoa Física"></item>
+		</item>
+		<item id="m111" text="Despesas">
+			<item id="gereTde.php" text="Tipo de Despesa"></item>
+		</item>		
+		<item id="gereVei.php" text="Veículos"></item>
+		<item id="ms2" type="separator"/>
+		<item id="gerePro.php" text="Produtos"></item>
+		<item id="gereUse.php" text="Usuários"></item>
+	</item>
+	<!-- Cupom -->
+	<item id="m2" text="Cupom">	
+		<item id="cadaCup.php" text="Emitir Cupom"></item>
+		<item id="ms2" type="separator"/>
+		<item id="gereCup.php" text="Relatório de Cupom"></item>
+	</item>
+	<item id="m4" text="Despesas">	
+		<item id="gereDes.php" text="Emitir Despesa"></item>
+		<item id="ms4" type="separator"/>
+			<item id="despDia.php" text="Despesa Diária"></item>
+			<item id="despMes.php" text="Despesa Mensal"></item>	
+			<item id="despAno.php" text="Despesa Anual"></item>
+	</item>
+	<item id="m5" text="Caixa">	
+		<item id="caixDia.php" text="Fechamento Diário"><hotkey>Ctrl+V</hotkey></item>
+	</item>
+	<!--<item id="m6" text="Nota Fiscal">	
+		<item id="" text="Emitir Nota Fiscal"><hotkey>Ctrl+V</hotkey></item>
+		<item id="ms2" type="separator"/>
+		<item id="m16" text="Relatórios">
+			<item id="" text="Nota Fiscal Diária"><hotkey>Ctrl+P</hotkey></item>
+			<item id="" text="Nota Fiscal Mensal"><hotkey>Ctrl+P</hotkey></item>
+			<item id="" text="Nota Fiscal Anual"><hotkey>Ctrl+U</hotkey></item>
+		</item>	
+	</item> -->
+	<item id="m7" text="Faturamento">	
+		<item id="fatuDia.php" text="Faturamento Diário"></item>
+		<item id="fatuMes.php" text="Faturamento Mensal"></item>
+		<item id="fatuAno.php" text="Faturamento Anual"></item>
+	</item>
+	<item id="m8" text="Utilitário">	
+		<item id="execute_db_backup.php" text="Backup dos Dados"></item>
+	</item>
+</menu>

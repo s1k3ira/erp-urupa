@@ -1,0 +1,226 @@
+body{
+margin-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+font-family:Tahoma;
+	font-size:11px;
+	font-style:inherit;
+}
+
+
+#Topo {
+	width: 100%;
+	background-color:#000000;
+	font-family:Tahoma;
+	font-size:11px;
+	color:#FFFFFF;
+}
+
+
+#subTopo {
+	width: 100%;
+	background-color:#efebe2;
+	font-family:Tahoma;
+	font-size:13px;
+	color:#bd7863;
+}
+
+#Rodape {
+	width: 100%;
+	background-color:#464646;
+	font-family:Tahoma;
+	font-size:11px;
+	color:#FFFFFF;
+	position: fixed;
+	bottom:0;
+}
+
+#subMenu {
+	width: 100%;
+	background-image:url(../menu/sources/imgs/dhxmenu_clear_silver/dhtmlxmenu_top_bg_middle.gif);
+	font-family:Tahoma;
+	font-size:11px;
+	color:#a55436;
+} 
+
+#conteudo { 
+	background-color: #FFFFFF; 
+	color: #000000; 
+	width: 100%;
+	height: auto;
+	font-family:Tahoma;
+	font-size:11px;
+}
+
+#interna { 
+	background-color: #FFFFFF; 
+	color: #000000; 
+	width: 984px;
+	font-family:Tahoma;
+	font-size:11px;
+
+}
+
+#login {
+	width: 100%;
+	background-color:#f5f0f7;
+	font-family:Tahoma;
+	font-size:11px;
+	color:#7c7c7c;
+}
+
+#ocultDiv{
+	position:relative;
+	background-color: #eee9e0;
+	color: #000000; 
+	font-family:Tahoma;
+	font-size:11px;
+	font-style:inherit;
+	width:800px;
+	text-align:left;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#jurDados{
+	position:relative;
+	background-color: #eee9e0;
+	color: #000000;
+	font-family:Tahoma;
+	font-size:11px;
+	font-style:inherit;
+	width:800px;
+	text-align:left;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+#jurMenu{
+	position:relative;
+	background-color: #464546;
+	color: #FFFFFF; 
+	font-family:Tahoma;
+	font-size:11px;
+	font-style:inherit;
+	width:800px;
+	text-align:left;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+.titulo {
+	color: #000000; 
+	font-family:Tahoma;
+	font-size:15px;
+	font-style:inherit;
+}
+
+.branco {
+	color: #FFFFFF; 
+	font-family:Tahoma;
+	font-size:10px;
+	font-style:inherit;
+}
+
+.cinza {
+	color: #6c6c6c; 
+	font-family:Tahoma;
+	font-size:11px;
+	font-style:inherit;
+}
+
+.tabred {
+	background-color: #ffece8;
+	border: 1px solid #5c6063;
+	border-color:#FF0000;	
+	color: #000000; 
+	font-family:Tahoma;
+	font-size:11px;
+	font-style:inherit;
+}
+
+.tabyellow {
+	background-color: #feffdf;
+	border: 1px solid #e7db57;
+	border-color:#e7db57;	
+	color: #000000; 
+	font-family:Tahoma;
+	font-size:11px;
+	font-style:inherit;
+}
+
+.tabsis {
+	background-color: #eee9e0;
+	color: #000000; 
+	font-family:Tahoma;
+	font-size:11px;
+	font-style:inherit;
+}
+.tabescu {
+	background-color: #464546;
+	color: #FFFFFF; 
+	font-family:Tahoma;
+	font-size:11px;
+	font-style:inherit;
+}
+
+
+.input {
+    background-color: #FFFFFF;
+    border: 1px solid #5c6063;
+    margin: 2px;
+    padding: 2px;
+    text-decoration: none;
+    font: 10px Tahoma;
+    color: #000000;
+}
+
+.botao {
+    background-color: #F63;
+    border: 1px solid #000000;
+    text-decoration: none;
+    font: 12px Tahoma;
+    color: #000000;
+	font-weight: bold;
+}
+
+a:link {
+	font-family: verdana;
+    font-size: 10px; 
+    color: #FF6600;
+    text-decoration: none;	
+}
+a:active {
+	font-family: verdana;
+    font-size: 10px; 
+    color: #FF6600;
+    text-decoration: none;
+    
+}
+
+a:visited {
+	font-family: verdana;
+    font-size: 10px; 
+    color: #FF6600;
+    text-decoration: none;
+    
+	
+}
+a:hover {
+	font-family: verdana;
+    font-size: 10px; 
+    color: #FF6600;
+    text-decoration: underline;
+    
+}
+
+.topficha {
+	background-color: #222322;
+	color: #FFFFFF; 
+	font-family:Tahoma;
+	font-size:12px;
+	font-style:inherit;
+}

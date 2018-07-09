@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="OpenStreetMap.js" server="192.168.0.100" local="129865682444510550" remote="129866070000000000" Dst="1" />
+<file name="cross_framing_protection.js" server="192.168.0.100" local="129865682444990577" remote="129866070000000000" Dst="1" />
+<file name="config.js" server="192.168.0.100" local="129865682445000578" remote="129866070000000000" Dst="1" />
+<file name="common.js" server="192.168.0.100" local="129865682445110584" remote="129866070000000000" Dst="1" />
+<file name="date.js" server="192.168.0.100" local="129865682445130585" remote="129866070000000000" Dst="1" />
+<file name="db_operations.js" server="192.168.0.100" local="129865682445130585" remote="129866070000000000" Dst="1" />
+<file name="db_search.js" server="192.168.0.100" local="129865682445200589" remote="129866070000000000" Dst="1" />
+<file name="db_structure.js" server="192.168.0.100" local="129865682445220591" remote="129866070000000000" Dst="1" />
+<file name="dom-drag.js" server="192.168.0.100" local="129865682445220591" remote="129866070000000000" Dst="1" />
+<file name="export.js" server="192.168.0.100" local="129865682445300595" remote="129866070000000000" Dst="1" />
+<file name="functions.js" server="192.168.0.100" local="129865682445340597" remote="129866070000000000" Dst="1" />
+<file name="gis_data_editor.js" server="192.168.0.100" local="129865682445380600" remote="129866070000000000" Dst="1" />
+<file name="get_image.js.php" server="192.168.0.100" local="129865682445400601" remote="129866070000000000" Dst="1" />
+<file name="import.js" server="192.168.0.100" local="129865682445570611" remote="129866070000000000" Dst="1" />
+<file name="indexes.js" server="192.168.0.100" local="129865682445570611" remote="129866070000000000" Dst="1" />
+<file name="keyhandler.js" server="192.168.0.100" local="129865682446910687" remote="129866070000000000" Dst="1" />
+<file name="makegrid.js" server="192.168.0.100" local="129865682447040695" remote="129866070000000000" Dst="1" />
+<file name="messages.php" server="192.168.0.100" local="129865682447040695" remote="129866070000000000" Dst="1" />
+<file name="navigation.js" server="192.168.0.100" local="129865682447100698" remote="129866070000000000" Dst="1" />
+<file name="querywindow.js" server="192.168.0.100" local="129865682450360885" remote="129866070000000000" Dst="1" />
+<file name="replication.js" server="192.168.0.100" local="129865682450450890" remote="129866070000000000" Dst="1" />
+<file name="server_plugins.js" server="192.168.0.100" local="129865682450570897" remote="129866070000000000" Dst="1" />
+<file name="server_privileges.js" server="192.168.0.100" local="129865682450670902" remote="129866070000000000" Dst="1" />
+<file name="server_status.js" server="192.168.0.100" local="129865682450680903" remote="129866070000000000" Dst="1" />
+<file name="server_synchronize.js" server="192.168.0.100" local="129865682450710905" remote="129866070000000000" Dst="1" />
+<file name="server_status_monitor.js" server="192.168.0.100" local="129865682450770908" remote="129866070000000000" Dst="1" />
+<file name="server_variables.js" server="192.168.0.100" local="129865682450790909" remote="129866070000000000" Dst="1" />
+<file name="sql.js" server="192.168.0.100" local="129865682450860913" remote="129866070000000000" Dst="1" />
+<file name="tbl_change.js" server="192.168.0.100" local="129865682450880914" remote="129866070000000000" Dst="1" />
+<file name="tbl_chart.js" server="192.168.0.100" local="129865682450880914" remote="129866070000000000" Dst="1" />
+<file name="tbl_gis_visualization.js" server="192.168.0.100" local="129865682450960919" remote="129866070000000000" Dst="1" />
+<file name="tbl_relation.js" server="192.168.0.100" local="129865682450960919" remote="129866070000000000" Dst="1" />
+<file name="tbl_select.js" server="192.168.0.100" local="129865682450970920" remote="129866070000000000" Dst="1" />
+<file name="tbl_structure.js" server="192.168.0.100" local="129865682451060925" remote="129866070000000000" Dst="1" />
+<file name="tbl_zoom_plot_jqplot.js" server="192.168.0.100" local="129865682451060925" remote="129866070000000000" Dst="1" />
+<file name="update-location.js" server="192.168.0.100" local="129865682451070925" remote="129866070000000000" Dst="1" />
+</dwsync>

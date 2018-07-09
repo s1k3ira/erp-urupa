@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="add_point_off.png" server="192.168.0.100" local="129865682448710790" remote="129866070000000000" Dst="1" />
+<file name="add_point_on.png" server="192.168.0.100" local="129865682448800795" remote="129866070000000000" Dst="1" />
+<file name="blank.gif" server="192.168.0.100" local="129865682448800795" remote="129866070000000000" Dst="1" />
+<file name="close.gif" server="192.168.0.100" local="129865682448940803" remote="129866070000000000" Dst="1" />
+<file name="drag-rectangle-off.png" server="192.168.0.100" local="129865682449010807" remote="129866070000000000" Dst="1" />
+<file name="drag-rectangle-on.png" server="192.168.0.100" local="129865682449030809" remote="129866070000000000" Dst="1" />
+<file name="draw_line_off.png" server="192.168.0.100" local="129865682449030809" remote="129866070000000000" Dst="1" />
+<file name="draw_line_on.png" server="192.168.0.100" local="129865682449120814" remote="129866070000000000" Dst="1" />
+<file name="draw_point_off.png" server="192.168.0.100" local="129865682449140815" remote="129866070000000000" Dst="1" />
+<file name="draw_point_on.png" server="192.168.0.100" local="129865682449140815" remote="129866070000000000" Dst="1" />
+<file name="draw_polygon_off.png" server="192.168.0.100" local="129865682449220819" remote="129866070000000000" Dst="1" />
+<file name="draw_polygon_on.png" server="192.168.0.100" local="129865682449240821" remote="129866070000000000" Dst="1" />
+<file name="editing_tool_bar.png" server="192.168.0.100" local="129865682449240821" remote="129866070000000000" Dst="1" />
+<file name="move_feature_off.png" server="192.168.0.100" local="129865682449320825" remote="129866070000000000" Dst="1" />
+<file name="move_feature_on.png" server="192.168.0.100" local="129865682449330826" remote="129866070000000000" Dst="1" />
+<file name="navigation_history.png" server="192.168.0.100" local="129865682449350827" remote="129866070000000000" Dst="1" />
+<file name="overview_replacement.gif" server="192.168.0.100" local="129865682449480834" remote="129866070000000000" Dst="1" />
+<file name="pan-panel-NOALPHA.png" server="192.168.0.100" local="129865682449490835" remote="129866070000000000" Dst="1" />
+<file name="pan-panel.png" server="192.168.0.100" local="129865682449510836" remote="129866070000000000" Dst="1" />
+<file name="pan_off.png" server="192.168.0.100" local="129865682449590841" remote="129866070000000000" Dst="1" />
+<file name="pan_on.png" server="192.168.0.100" local="129865682449600841" remote="129866070000000000" Dst="1" />
+<file name="panning-hand-off.png" server="192.168.0.100" local="129865682449610842" remote="129866070000000000" Dst="1" />
+<file name="panning-hand-on.png" server="192.168.0.100" local="129865682449680846" remote="129866070000000000" Dst="1" />
+<file name="remove_point_off.png" server="192.168.0.100" local="129865682449690846" remote="129866070000000000" Dst="1" />
+<file name="remove_point_on.png" server="192.168.0.100" local="129865682449710847" remote="129866070000000000" Dst="1" />
+<file name="ruler.png" server="192.168.0.100" local="129865682449790852" remote="129866070000000000" Dst="1" />
+<file name="save_features_off.png" server="192.168.0.100" local="129865682449790852" remote="129866070000000000" Dst="1" />
+<file name="save_features_on.png" server="192.168.0.100" local="129865682449790852" remote="129866070000000000" Dst="1" />
+<file name="view_next_off.png" server="192.168.0.100" local="129865682449920859" remote="129866070000000000" Dst="1" />
+<file name="view_next_on.png" server="192.168.0.100" local="129865682449920859" remote="129866070000000000" Dst="1" />
+<file name="view_previous_off.png" server="192.168.0.100" local="129865682449940861" remote="129866070000000000" Dst="1" />
+<file name="view_previous_on.png" server="192.168.0.100" local="129865682450010865" remote="129866070000000000" Dst="1" />
+<file name="zoom-panel-NOALPHA.png" server="192.168.0.100" local="129865682450140872" remote="129866070000000000" Dst="1" />
+<file name="zoom-panel.png" server="192.168.0.100" local="129865682450150873" remote="129866070000000000" Dst="1" />
+</dwsync>

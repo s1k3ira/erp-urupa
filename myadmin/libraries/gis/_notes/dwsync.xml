@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="pma_gis_factory.php" server="192.168.0.100" local="129865682456241221" remote="129866070000000000" Dst="1" />
+<file name="pma_gis_geometry.php" server="192.168.0.100" local="129865682456251222" remote="129866070000000000" Dst="1" />
+<file name="pma_gis_geometrycollection.php" server="192.168.0.100" local="129865682456311225" remote="129866070000000000" Dst="1" />
+<file name="pma_gis_linestring.php" server="192.168.0.100" local="129865682456331226" remote="129866070000000000" Dst="1" />
+<file name="pma_gis_multilinestring.php" server="192.168.0.100" local="129865682456361228" remote="129866070000000000" Dst="1" />
+<file name="pma_gis_multipoint.php" server="192.168.0.100" local="129865682456401230" remote="129866070000000000" Dst="1" />
+<file name="pma_gis_multipolygon.php" server="192.168.0.100" local="129865682456441232" remote="129866070000000000" Dst="1" />
+<file name="pma_gis_point.php" server="192.168.0.100" local="129865682456471234" remote="129866070000000000" Dst="1" />
+<file name="pma_gis_polygon.php" server="192.168.0.100" local="129865682456501236" remote="129866070000000000" Dst="1" />
+<file name="pma_gis_visualization.php" server="192.168.0.100" local="129865682456541238" remote="129866070000000000" Dst="1" />
+</dwsync>

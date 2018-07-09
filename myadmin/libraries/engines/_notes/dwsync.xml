@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="bdb.lib.php" server="192.168.0.100" local="129865682454811139" remote="129866070000000000" Dst="1" />
+<file name="berkeleydb.lib.php" server="192.168.0.100" local="129865682454971148" remote="129866070000000000" Dst="1" />
+<file name="innobase.lib.php" server="192.168.0.100" local="129865682455071154" remote="129866070000000000" Dst="1" />
+<file name="binlog.lib.php" server="192.168.0.100" local="129865682455091155" remote="129866070000000000" Dst="1" />
+<file name="innodb.lib.php" server="192.168.0.100" local="129865682455121157" remote="129866070000000000" Dst="1" />
+<file name="memory.lib.php" server="192.168.0.100" local="129865682455171160" remote="129866070000000000" Dst="1" />
+<file name="merge.lib.php" server="192.168.0.100" local="129865682455191161" remote="129866070000000000" Dst="1" />
+<file name="mrg_myisam.lib.php" server="192.168.0.100" local="129865682455191161" remote="129866070000000000" Dst="1" />
+<file name="myisam.lib.php" server="192.168.0.100" local="129865682455261165" remote="129866070000000000" Dst="1" />
+<file name="ndbcluster.lib.php" server="192.168.0.100" local="129865682455261165" remote="129866070000000000" Dst="1" />
+<file name="pbms.lib.php" server="192.168.0.100" local="129865682455271165" remote="129866070000000000" Dst="1" />
+<file name="pbxt.lib.php" server="192.168.0.100" local="129865682455351170" remote="129866070000000000" Dst="1" />
+</dwsync>

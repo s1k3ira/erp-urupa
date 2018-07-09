@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="config.manyhosts.inc.php" server="192.168.0.100" local="129865682443590497" remote="129866070000000000" Dst="1" />
+<file name="create_tables.sql" server="192.168.0.100" local="129865682443590497" remote="129866070000000000" Dst="1" />
+<file name="create_tables_drizzle.sql" server="192.168.0.100" local="129865682443680503" remote="129866070000000000" Dst="1" />
+<file name="openid.php" server="192.168.0.100" local="129865682443840512" remote="129866070000000000" Dst="1" />
+<file name="signon-script.php" server="192.168.0.100" local="129865682443840512" remote="129866070000000000" Dst="1" />
+<file name="signon.php" server="192.168.0.100" local="129865682443960519" remote="129866070000000000" Dst="1" />
+<file name="swekey.sample.conf" server="192.168.0.100" local="129865682443960519" remote="129866070000000000" Dst="1" />
+<file name="upgrade_tables_mysql_4_1_2+.sql" server="192.168.0.100" local="129865682444090526" remote="129866070000000000" Dst="1" />
+</dwsync>

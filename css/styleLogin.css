@@ -1,0 +1,316 @@
+body{
+background-image: url("../images/bg.jpg");
+background-position: center bottom;
+margin: 0 auto;
+}
+
+#Site{
+	left: 50%;
+    margin-left: -500px;
+    position: absolute;
+    width: 1000px;
+}
+
+#Rodape{
+position:fixed;
+bottom:0;
+z-index:2;
+}
+
+#sys{
+ height: 480px;
+left: 50%;
+margin-left: -396px;
+margin-top: -280px;
+position: absolute;
+top: 50%;
+width: 793px;
+z-index: 1;
+}
+
+#Topo{}
+
+#MsgBemvindo{
+	color: #999999;
+    font-family: verdana;
+    font-size: 11px;
+    margin-left: 228px;
+    margin-top: 125px;
+    position: absolute;
+}
+
+#MenuPrincipal{}   
+
+#MenuItem{
+	margin-left: 886px;
+    margin-top: 17px;
+    position: absolute;
+}
+
+#Item4sys{
+	height: 53px;
+    width: 60px;
+}
+
+#Itemduvidas{
+	height: 53px;
+    margin-left: 47px;
+    margin-top: -27px;
+    width: 60px;
+}
+
+#Itemsair{
+	height: 53px;
+    margin-left: -1px;
+    margin-top: -26px;
+    width: 60px;
+}
+
+#Iteminfo{
+	height: 53px;
+    margin-left: -46px;
+    margin-top: -80px;
+    width: 60px;
+}
+
+#Lateral{
+	margin-top: 14px;
+}
+
+#Logo{
+	margin-left: 46px;
+}
+
+#MenuLateral{
+	margin-left: 13px;
+    margin-top: 25px;
+}
+
+#MaisMenu{}
+
+#ItensdoMenuTitulo{
+	 margin-left: 24px;
+    margin-top: -35px;
+}
+
+#ItensdoMenuTitulo .SetaEsq {
+    float: left;
+    width: 12px;
+}
+
+#ItensdoMenuTitulo .Link {
+     background: url("../images/barra_direita_azulescuro.png") no-repeat scroll right center transparent;
+    float: left;
+    font-family: 'Aldrich',sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    height: 20px;
+    margin-top: -5px;
+    padding-right: 16px;
+    padding-top: 12px;
+}
+
+#ItensdoMenuTitulo .Link a{
+	text-decoration:none;
+	color:#FFF;
+}
+
+#ItensdoMenuSubTitulo{}
+
+
+#ItensdoMenuSubTitulo .SetaEsq {
+    float: left;
+    width: 12px;
+}
+
+#ItensdoMenuSubTitulo .Link {
+     background: url("../images/barra_direita_azulclaro.png") no-repeat scroll right center transparent;
+    float: left;
+    font-family: 'Aldrich',sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    height: 20px;
+    margin-top: -5px;
+    padding-right: 16px;
+    padding-top: 12px;
+}
+
+#ItensdoMenuSubTitulo .Link a{
+	text-decoration:none;
+	color:#FFF;
+}
+
+#OSubmenu{
+	margin-left: 24px;
+    margin-top: 25px;
+    position: absolute;
+}
+
+#ItensSubitem{}
+
+#ItensSubitem{}
+
+#Conteudo{
+    height: 1500px;
+    left: 50%;
+    margin-left: -281px;
+    margin-top: 165px;
+    position: absolute;
+    width: 775px;
+}
+
+#TituloConteudo{
+	color: #0C4977;
+    font-family: 'Aldrich',sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#InteracaoConteudo{
+	margin-left: 589px;
+    margin-top: 10px;
+}
+
+#Listagem{
+	margin-top: 18px;
+}
+
+#Editar{
+	margin-top: 18px;
+}
+.TopoColunas{
+	color: #0C4977;
+    font-family: 'Aldrich',sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+	height: 25px;
+}
+
+.TextoTabela{
+	color: #999999;
+    font-family: Verdana;
+    font-size: 12px;
+	background-image:url(../images/barra_direita_cinzaclaro.png);
+	background-repeat:no-repeat;
+	background-position: 10px;
+	height: 30px;
+}
+
+.TextoTabela2{
+	color: #999999;
+    font-family: Verdana;
+    font-size: 12px;
+	background-image:url(../images/barra_direita_cinzaescuro.png);
+	background-repeat:no-repeat;
+	background-position: 10px;
+	height: 30px;
+}
+
+.TitForm{
+	color: #0C4977;
+    font-family: 'Aldrich',sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+	margin-bottom:10px;
+}
+
+#Formulario .SetaEsq {
+    float: left;
+    width: 12px;
+}
+
+#Formulario .Link {
+     background: url("../images/barra_direita_cinzaclaro.png") no-repeat scroll right center transparent;
+    float: left;
+    font-family: 'Aldrich',sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    height: 20px;
+    margin-top: -5px;
+    padding-right: 16px;
+    padding-top: 12px;
+}
+
+#Formulario .Link a{
+	text-decoration:none;
+	color:#FFF;
+}
+
+#Formulario input{
+	
+}
+
+#Mapa{
+	margin-left: 308px;
+    position: absolute;
+}
+
+#Campo_Complemento{
+	 margin-left: 114px;
+    margin-top: -13px;
+}
+
+#Campo_CEP{
+	margin-left: 149px;
+    margin-top: -13px;
+}
+
+
+#Campo_Cidade{
+	margin-left: 77px;
+    margin-top: -13px;
+}
+
+#Campo_Geo{
+	margin-left: 315px;
+    margin-top: -51px;
+    position: absolute;
+}
+
+#Login{
+	background-image: url("../images/tela_login.png");
+    background-repeat: no-repeat;
+    height: 179px;
+    left: 50%;
+    margin-left: -132px;
+    margin-top: 100px;
+    position: absolute;
+    width: 365px;
+	
+}
+    
+.usuario{
+	
+    color: #999999;
+    font-family: verdana;
+    font-size: 12px;
+    height: 23px;
+    margin-left: 140px;
+    margin-top: 37px;
+    padding: 2px;
+    position: absolute;
+    width: 121px;
+    z-index: 10;
+}
+
+.password{
+	
+    color: #999999;
+    font-family: verdana;
+    font-size: 12px;
+    height: 23px;
+    margin-left: 225px;
+    margin-top: 139px;
+    padding: 2px;
+    position: absolute;
+    width: 121px;
+    z-index: 10;
+}
+
+#BotaoLogar{
+	margin-left: 368px;
+    margin-top: 138px;
+}

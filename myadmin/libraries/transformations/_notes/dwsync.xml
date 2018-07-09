@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="README" server="192.168.0.100" local="129865682461631529" remote="129866070000000000" Dst="1" />
+<file name="TEMPLATE" server="192.168.0.100" local="129865682463841656" remote="129866070000000000" Dst="1" />
+<file name="TEMPLATE_MIMETYPE" server="192.168.0.100" local="129865682464131672" remote="129866070000000000" Dst="1" />
+<file name="application_octetstream__download.inc.php" server="192.168.0.100" local="129865682464481692" remote="129866070000000000" Dst="1" />
+<file name="application_octetstream__hex.inc.php" server="192.168.0.100" local="129865682464491693" remote="129866070000000000" Dst="1" />
+<file name="generator.sh" server="192.168.0.100" local="129865682464651702" remote="129866070000000000" Dst="1" />
+<file name="global.inc.php" server="192.168.0.100" local="129865682464661703" remote="129866070000000000" Dst="1" />
+<file name="image_jpeg__inline.inc.php" server="192.168.0.100" local="129865682464831712" remote="129866070000000000" Dst="1" />
+<file name="image_jpeg__link.inc.php" server="192.168.0.100" local="129865682464841713" remote="129866070000000000" Dst="1" />
+<file name="image_png__inline.inc.php" server="192.168.0.100" local="129865682464921717" remote="129866070000000000" Dst="1" />
+<file name="template_generator.sh" server="192.168.0.100" local="129865682464941719" remote="129866070000000000" Dst="1" />
+<file name="template_generator_mimetype.sh" server="192.168.0.100" local="129865682465031724" remote="129866070000000000" Dst="1" />
+<file name="text_plain__dateformat.inc.php" server="192.168.0.100" local="129865682465041724" remote="129866070000000000" Dst="1" />
+<file name="text_plain__external.inc.php" server="192.168.0.100" local="129865682465061725" remote="129866070000000000" Dst="1" />
+<file name="text_plain__formatted.inc.php" server="192.168.0.100" local="129865682465131729" remote="129866070000000000" Dst="1" />
+<file name="text_plain__imagelink.inc.php" server="192.168.0.100" local="129865682465191733" remote="129866070000000000" Dst="1" />
+<file name="text_plain__link.inc.php" server="192.168.0.100" local="129865682465201733" remote="129866070000000000" Dst="1" />
+<file name="text_plain__longToIpv4.inc.php" server="192.168.0.100" local="129865682465271737" remote="129866070000000000" Dst="1" />
+<file name="text_plain__sql.inc.php" server="192.168.0.100" local="129865682465291739" remote="129866070000000000" Dst="1" />
+<file name="text_plain__substr.inc.php" server="192.168.0.100" local="129865682465291739" remote="129866070000000000" Dst="1" />
+</dwsync>
